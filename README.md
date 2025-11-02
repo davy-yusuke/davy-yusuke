@@ -4,6 +4,8 @@ I'm yusuke
 
 I'm student programmer
 
+Discord: yusukemac
+
 [![My Skills](https://skillicons.dev/icons?i=py,ts,react,next,astro,svelte,cpp,c,docker,tailwindcss,go,zig,rust,discord)](https://skillicons.dev)
 
 
