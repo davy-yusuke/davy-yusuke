@@ -6,9 +6,9 @@ I'm student programmer
 
 Discord: yusukemac
 
-I am a student engineer interested in low-level programming.
+I am a student engineer interested in low level programming.
 
-I primarily work with languages like Go, C, and C++.
+I primarily work with languages like Go, C, C++.
 
 I am currently learning Rust.
 
