@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### I'm yusuke
+### I'm student programmer
+
 <!--
 **davy-yusuke/davy-yusuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
