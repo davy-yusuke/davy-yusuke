@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me
 
 I'm yusuke
 
