@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-### I'm yusuke
-### I'm student programmer
+I'm yusuke
+I'm student programmer
+
+[![My Skills](https://skillicons.dev/icons?i=py,ts,react,next,docker,tailwindcss,llvm,go,zig,rust,mlir)](https://skillicons.dev)
+
 
 <!--
 **davy-yusuke/davy-yusuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
