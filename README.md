@@ -1,20 +1,9 @@
-## About me
+# 🚀 Account Moved
 
-I'm yusuke
+This account has moved to **[@yecov](https://github.com/yecov)**.
 
-I'm student programmer
-
-Discord: yusukemac
-
-I am a student engineer interested in low level programming.
-
-I primarily work with languages like Go, C, C++.
-
-I am currently learning Rust.
-
-
-[![My Skills](https://skillicons.dev/icons?i=py,ts,react,next,astro,svelte,cpp,c,docker,tailwindcss,go,zig,rust,discord)](https://skillicons.dev)
-
+Please visit my new GitHub profile here:
+👉 https://github.com/yecov
 
 <!--
 **davy-yusuke/davy-yusuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
