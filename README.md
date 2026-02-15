@@ -1,11 +1,10 @@
-# 🚀 About This Sub-Account
+# 🚀 Other Accounts
 
-This is a **sub-account**.  
-My main account is here:  
-👉 [davy-yusuke](https://github.com/davy-yusuke)  
+I also have a **sub-account** for experiments and side projects:  
+👉 [yecov](https://github.com/yecov)  
 
-While my main account focuses on major projects and development work,  
-this sub-account is used for personal experiments, learning, and small side projects.
+While this main account focuses on my major projects and development work,  
+the sub-account is used for testing, learning, and smaller personal projects.
 
 <!--
 **davy-yusuke/davy-yusuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
