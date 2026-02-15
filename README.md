@@ -1,9 +1,11 @@
-# 🚀 Account Moved
+# 🚀 About This Sub-Account
 
-This account has moved to **[@yecov](https://github.com/yecov)**.
+This is a **sub-account**.  
+My main account is here:  
+👉 [davy-yusuke](https://github.com/davy-yusuke)  
 
-Please visit my new GitHub profile here:
-👉 https://github.com/yecov
+While my main account focuses on major projects and development work,  
+this sub-account is used for personal experiments, learning, and small side projects.
 
 <!--
 **davy-yusuke/davy-yusuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
