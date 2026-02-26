@@ -6,6 +6,8 @@ I also have a **sub-account** for experiments and side projects:
 While this main account focuses on my major projects and development work,  
 the sub-account is used for testing, learning, and smaller personal projects.
 
+website: [web](https://yecov.com/)
+
 <!--
 **davy-yusuke/davy-yusuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
